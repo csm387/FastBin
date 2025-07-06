@@ -4,7 +4,7 @@
 
 - ✅ Open the Recycle Bin
 - 🧹 Empty the Recycle Bin (with confirmation)
-- ⚡ Sit silently in the system tray with **under 1 MB of RAM usage**
+- ⚡ Sit silently in the system tray with **under 1 MB of RAM usage**, over 2x more performant than similar tools  
 
 No .NET, no external libraries, no dependencies. Just native Win32 performance.
 
@@ -24,7 +24,7 @@ No .NET, no external libraries, no dependencies. Just native Win32 performance.
 
 ## 📸 Screenshot
 
-![screenshot](screenshot.png)
+![FastBin Demo](demo.gif)
 
 ---
 
@@ -57,5 +57,5 @@ Once compiled:
 FastBin does not stay in memory unnecessarily and exits cleanly.
 
 ### 🙏 Credits
-FastBin was inspired by SimpleBin by @exalaolir, a lightweight .NET tool with similar goals.
+FastBin was inspired by [SimpleBin](https://github.com/exalaolir/SimpleBin) by [@exalaolir](https://github.com/exalaolir), a lightweight .NET tool with similar goals.
 FastBin is a full rewrite in C focused on native performance and minimalism.
