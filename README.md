@@ -4,7 +4,7 @@
 
 - ✅ Open the Recycle Bin
 - 🧹 Empty the Recycle Bin (with confirmation)
-- ⚡ Sit silently in the system tray with **under 1 MB of RAM usage**, over 2x more performant than similar tools  
+- ⚡ Sit silently in the system tray with **under 3 MB of RAM usage**, over 2x more performant than similar tools  
 
 No .NET, no external libraries, no dependencies. Just native Win32 performance.
 
@@ -12,7 +12,7 @@ No .NET, no external libraries, no dependencies. Just native Win32 performance.
 
 ## ✨ Features
 
-- 🧠 **Ultra-low memory usage** (~400–800 KB)
+- 🧠 **Ultra-low memory usage** (~1 MB – 3 MB depending on system)
 - ⚙️ Written entirely in **C** using **WinAPI**
 - 📁 Open Recycle Bin with a single click
 - ❌ Empty Recycle Bin with confirmation
