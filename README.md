@@ -22,7 +22,7 @@ No .NET, no external libraries, no dependencies. Just native Win32 performance.
 
 ---
 
-## 📸 Screenshot
+## 📸 Demo
 
 ![FastBin Demo](demo.gif)
 
